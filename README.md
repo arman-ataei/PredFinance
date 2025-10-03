@@ -23,8 +23,10 @@ Clone the repository and install dependencies:
 git clone https://github.com/arman-ataei/PredFinance.git
 cd PredFinance
 pip install -r requirements.txt
-streamlit run streamlit_app/1_🏠 Home
-‍‍‍‍```
+streamlit run streamlit_app/1_🏠 Home 
+```
 
 ## Project Origin  
 This repository was initially developed as part of the Data Analysis course in the Technical and Vocational Education program.
+
+
