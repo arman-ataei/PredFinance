@@ -1,0 +1,28 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Streamlit
+
+# Vsconde environment
+
+
+# Environment
+.env
+venv/
+.env.*
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db

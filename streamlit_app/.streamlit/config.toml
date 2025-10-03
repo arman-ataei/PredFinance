@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#1E90FF"             # Accent (blue)
+backgroundColor = "#0E1117"          # Main background
+secondaryBackgroundColor = "#20232A" # Sidebar / widget background
+textColor = "#FAFAFA"                # Light text
+font = "sans serif"
+
+[server]
+headless = true                      # Run without browser auto‑opening (useful on servers)
+port = 8501                          # Port number (default 8501)
+enableCORS = false                   # Disable CORS (cross‑origin requests) for embedding
